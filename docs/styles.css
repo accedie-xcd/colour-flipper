@@ -645,6 +645,14 @@ video {
   height: 6rem;
 }
 
+.h-32 {
+  height: 8rem;
+}
+
+.h-16 {
+  height: 4rem;
+}
+
 .min-h-max {
   min-height: -moz-max-content;
   min-height: max-content;
